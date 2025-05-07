@@ -21,7 +21,7 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen p-8 bg-gray-100">
+    <main className="min-h-screen p-8 bg-gray-100 text-black">
       <div className="max-w-2xl mx-auto">
         <h1 className="text-3xl font-bold mb-6">ZK-ID: Privacy-Preserving Age Verification</h1>
         <div className="mb-4">
